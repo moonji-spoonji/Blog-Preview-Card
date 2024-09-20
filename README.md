@@ -31,7 +31,7 @@ My solution:
 
 ### Links
 
-- Solution URL: [my solution on Netlify](https://netlify.com)
+- Solution URL: [my solution on Netlify](https://blog-preview-card-challenge-moonji.netlify.app/)
 
 ## My process
 
